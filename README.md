@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 영화 예매 앱 시뮬레이션 (Flask 기반)
 
 ## ✅ 개요
@@ -29,3 +30,7 @@ pip install -r requirements.txt
 
 # 3. 앱 실행
 python app.py
+=======
+# movie-booking-app
+영화 예매 앱
+>>>>>>> d9cf2ad4f888decc8109fa0025b178bed1ea715c
